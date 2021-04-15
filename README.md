@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sicelo Lubisi
 
-<img align="right" alt="GIF" src="https://github.com/SiceloLubisi/SiceloLubisi/main/profile.gif?raw=true" width="500" height="320" />
+<!--- <img align="right" alt="GIF" src="https://github.com/SiceloLubisi/SiceloLubisi/main/profile.gif?raw=true" width="500" height="320" /> --->
 
 #### I am a full-stack software developer and data analyst. I love programming, reading and online gaming. 
 As a software developer, I enjoy using my obsessive attention to detail and my unquestionable love for making things that have the potential of changing the world. 
