@@ -2,8 +2,7 @@
 
 <!--- <img align="right" alt="GIF" src="https://github.com/SiceloLubisi/SiceloLubisi/main/profile.gif?raw=true" width="500" height="320" /> --->
 
-#### I am a full-stack software developer and data analyst. I love programming, reading and online gaming. 
-As a software developer, I enjoy using my obsessive attention to detail and my unquestionable love for making things that have the potential of changing the world. 
+#### I am junior software developer (HTML, C#, CSS, Javascript) with experience in working on a variety of web development projects. I work on all aspects of development life cycle. My past work includes building user focused, dynamic, innovative and functional websites/software using my problem-solving skills and knowledge of programming. I have good understanding when it comes HTML/C#/CSS/javascript. 
 
 Skills: C++ / C# / JS / HTML / CSS / SQL / JSON / XML
 
