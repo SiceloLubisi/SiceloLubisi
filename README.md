@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sicelo Lubisi
 
-<img align="right" alt="GIF" src="https://github.com/SiceloLubisi/SiceloLubisi/blop/main/profile.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/SiceloLubisi/SiceloLubisi/blob/main/Profile.gif?raw=true" width="500" height="320" />
 
 #### I am junior software developer with experience in working on a variety of web development projects. I work on all aspects of development life cycle. My past work includes building user focused, dynamic, innovative and functional websites/software using my problem-solving skills and knowledge of programming. I am well versed with use of Microsoft Visual Studio, Microsoft SQL Server Management Studio, GitHub and Microsoft Visio. 
 
