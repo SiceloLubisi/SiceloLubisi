@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/SiceloLubisi/SiceloLubisi/blob/main/Profile.gif?raw=true" width="500" height="320" />
 
-#### I am a junior software developer with experience in working on a variety of web development projects. I work on most aspects of development life cycle. My past work includes building user focused, dynamic, innovative and functional websites/software using my problem-solving skills and knowledge of programming. I am well versed with use of Microsoft Visual Studio, Microsoft SQL Server Management Studio, GitHub and Microsoft Visio. 
+#### I am a junior software developer with experience in working on a variety of web development projects. I work on most aspects of development life cycle. My past work includes building user focused, dynamic, innovative and functional websites/software using my problem-solving skills and knowledge of programming. I am well versed with use of Microsoft Visual Studio, Microsoft SQL Server Management Studio, GitHub, Bitbucket, IntelliJ and Microsoft Visio. 
 
-Skills: C++ / C# / JS / HTML / CSS / SQL / JSON / XML
+Skills: C++ / C# / JS / HTML / CSS / SQL / JSON / XML / PHP / Kotlin
 
 - 🔭 I’m looking for company that is need of my expertise.
 - 🔭 University of Pretoria Information Technology Alumni (BIS Degree) 
