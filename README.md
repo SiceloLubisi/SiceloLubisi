@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/SiceloLubisi/SiceloLubisi/blob/main/Profile.gif?raw=true" width="500" height="320" />
 
-#### I am Software Dedveloper with experience in working on a variety of web development projects. I work on most aspects of development life cycle. My past work includes building user focused, dynamic, innovative and functional websites/software, simplying and automating company functions to improve productivity using my problem-solving skills and knowledge of programming. I am well versed with use of Microsoft Visual Studio, Microsoft SQL Server Management Studio, GitHub, Bitbucket, IntelliJ, Microsoft Visio, Twitter API, Corel Draw and React Native. 
+#### I am a Software Dedveloper with experience in working on a variety of web development projects. I work on most aspects of development life cycle. My past work includes building user focused, dynamic, innovative and functional websites/software, simplying and automating company functions to improve productivity using my problem-solving skills and knowledge of programming. I am well versed with use of Microsoft Visual Studio, Microsoft SQL Server Management Studio, GitHub, Bitbucket, IntelliJ, Microsoft Visio, Twitter API, Corel Draw and React Native. 
 
 Skills: C++ / C# / JS / HTML / CSS / SQL / JSON / XML / PHP / Kotlin / ReactJS / Python
 
